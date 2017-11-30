@@ -8,7 +8,7 @@ node ./build/GenerateDict.js
 
 生成切分结果文件
 ```
-node ./buildtest.js
+node ./build/est.js
 ```
 
 ------
